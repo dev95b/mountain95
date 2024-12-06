@@ -1,2 +1,2 @@
 console.log('hello world');
-alert('hello world');
+alert('welcome to my website');
